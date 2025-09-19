@@ -1,0 +1,11 @@
+# Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Datasets and large image folders
+test_images/
